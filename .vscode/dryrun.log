@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/touchair/gps-vio-align'
+make: Leaving directory '/home/touchair/gps-vio-align'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
